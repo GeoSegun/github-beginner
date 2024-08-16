@@ -7,4 +7,4 @@ This file is where users will add their names as their first GitHub contribution
 
 Welcome! Add your name below to make your first contribution on GitHub!
 
-- [Your Name]
+- Emem Jimmy
