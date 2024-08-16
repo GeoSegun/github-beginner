@@ -15,7 +15,7 @@ ls -al ~/.ssh
 Next step is to generate an ssh key by running the following command
 
 ```bash
-ssh-keygen -t ed25519 -C "your_email@example.com"
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
 
 replace `your_email@example.com` with your email address used to register GitHub
@@ -26,7 +26,7 @@ Run the following command to to start the ssh-agent and add your SSH key:
 
 ```bash
 eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_ed25519
+ssh-add ~/.ssh/id_rsa
 ```
 
 ## 4. Add SSH Key to Your GitHub Account
@@ -34,7 +34,7 @@ ssh-add ~/.ssh/id_ed25519
 Copy your SSH key to your clipboard:
 
 ```bash
-cat ~/.ssh/id_ed25519.pub
+cat ~/.ssh/id_rsa.pub
 ```
 
 Go to your [GitHub SSH settings](https://github.com/settings/keys) and add a new SSH key. Paste your key and save it.
