@@ -12,4 +12,4 @@ Welcome! Add your name below to make your first contribution on GitHub!
 - Chief Ozoek
 - Em Jay
 - Prince A
-- Oluwasanmi Omodoroni
+- Oluwasanmi David Omodoroni
