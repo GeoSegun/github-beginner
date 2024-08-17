@@ -10,4 +10,4 @@ Welcome! Add your name below to make your first contribution on GitHub!
 - Emem Jimmy Asuquo
 - Abioye Oyatoye
 - Chief Ozoek
-- EmJay
+- Em Jay
