@@ -11,4 +11,4 @@ Welcome! Add your name below to make your first contribution on GitHub!
 - Abioye Oyatoye
 - Chief Ozoek
 - Em Jay
-- Prince Agara
+- Prince A
