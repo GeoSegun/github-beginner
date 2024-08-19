@@ -13,3 +13,4 @@ Welcome! Add your name below to make your first contribution on GitHub!
 - Em Jay
 - Prince A
 - Oluwasanmi David Omodoroni
+- Arinze Stanley
