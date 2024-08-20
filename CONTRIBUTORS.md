@@ -15,3 +15,4 @@ Welcome! Add your name below to make your first contribution on GitHub!
 - Oluwasanmi David Omodoroni
 - Arinze Stanley
 - Piriaye Tamunotonye Levi
+- Daniel Michael
