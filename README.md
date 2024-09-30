@@ -15,3 +15,21 @@ Follow the steps in the guides below, and let's get started! 💻
 - How to fork a repository, make changes, and create a pull request.
 
 Happy coding! 😎
+
+## Additional Resources
+Here are some helpful links to expand your GitHub knowledge:
+- [GitHub Docs: Getting Started](https://docs.github.com/en/get-started)
+- [Markdown Guide](https://www.markdownguide.org/)
+- [YouTube: GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+
+## Community Engagement
+We encourage users to engage with the community! 
+
+- **Issues and Discussions**: If you have questions or need help, please open an issue, and we'll do our best to assist you.
+
+- **Contribution Guidelines**: To contribute, please follow these steps:
+  1. Fork the repository.
+  2. Create a new branch.
+  3. Make your changes.
+  4. Submit a pull request with a clear description of your changes.
+
